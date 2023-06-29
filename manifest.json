@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "WebP to JPEG Converter",
+    "version": "1.0",
+    "description": "Converts WebP images to JPEG or JPG format",
+    "permissions": [
+      "activeTab",
+      "scripting"
+    ],
+
+    "content_scripts": [
+      {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
