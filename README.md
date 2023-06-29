@@ -1,4 +1,7 @@
-![Alt Text](logo.png)
+<div align="center">
+  <img src="logo.png" alt="WebP to JPEG Converter" width="300px">
+</div>
+
 # WebP to JPEG Converter
 
 Converts WebP images to JPEG or JPG format in the Brave browser.
