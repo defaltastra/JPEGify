@@ -4,11 +4,11 @@
 
 # WebP to JPEG Converter
 
-Converts WebP images to JPEG or JPG format in the Brave browser.
+Converts WebP images to JPEG or JPG format in the Brave/Chrome browser.
 
 ## Description
 
-The WebP to JPEG Converter is a browser extension for Brave that automatically converts WebP images to JPEG or JPG format. This allows you to view WebP images in a compatible format directly in the browser.
+The WebP to JPEG Converter is a browser extension for Brave/Chrome that automatically converts WebP images to JPEG or JPG format. This allows you to view WebP images in a compatible format directly in the browser.
 
 ## Features
 
@@ -19,13 +19,13 @@ The WebP to JPEG Converter is a browser extension for Brave that automatically c
 
 1. Clone or download this repository.
 
-2. Open Brave browser and navigate to the Extensions settings page (`brave://extensions/`).
+2. Open Brave/Chrome browser and navigate to the Extensions settings page (`brave://extensions/`).
 
 3. Enable the "Developer mode" option.
 
 4. Click on "Load unpacked" and select the directory where you cloned or downloaded this repository.
 
-5. The WebP to JPEG Converter extension should now be loaded and active in your Brave browser.
+5. The WebP to JPEG Converter extension should now be loaded and active in your Brave/Chrome browser.
 
 ## Usage
 
